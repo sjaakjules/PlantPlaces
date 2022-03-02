@@ -48,4 +48,4 @@ jobs:
         publish_branch: pages
         publish_dir: docs/
         force_orphan: true
-        cname: 'http://www.exhibition.julianrutten.com/'
+        cname: 'www.exhibition.julianrutten.com'
