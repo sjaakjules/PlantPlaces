@@ -84,6 +84,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
+    siteUrl: 'http://www.exhibition.julianrutten.com/'
     seo:
         title: Dendron
         description: Personal Knowledge Space
