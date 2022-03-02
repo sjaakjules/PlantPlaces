@@ -8,3 +8,4 @@ pods/service-connections
 .next
 
 .next
+.dendron.cache.*
