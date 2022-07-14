@@ -5,6 +5,5 @@ seeds
 .next
 pods/service-connections
 
-.next
-
-.next
+*.next
+*.DS_Store
