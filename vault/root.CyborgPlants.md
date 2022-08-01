@@ -10,7 +10,7 @@ created: 1657760541278
 
 ### terra0
 
-![terra0](https://networkcultures.org/moneylab/wp-content/uploads/sites/17/2016/09/TERRAO-PIC.jpg){max-height: 300px}
+![terra0](/assets/images/terra0.png){max-height: 300px}
 
 [terra0](https://terra0.org) is a research project which creates a crypto-contract protocol to maintain a forest community that controlls the sale of trees for logging.
 
@@ -25,7 +25,7 @@ The following is taken from terra0 website and detail a series of experimental p
 
 ### Telegarden
 
-![Telegarden](https://goldberg.berkeley.edu/garden/telegarden-8x6-72dpi.jpg){max-height: 300px}
+![Telegarden](/assets/images/Telegarden.png){max-height: 300px}
 
 [Telegarden (1995-2004)](https://goldberg.berkeley.edu/garden/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm.
 
@@ -33,7 +33,7 @@ The following is taken from terra0 website and detail a series of experimental p
 
 ### SlothBot
 
-![Slothbot](https://atlantabg.org/wp-content/uploads/2020/07/SlothBot_Web_Header.jpg){max-height: 300px}
+![Slothbot](/assets/images/SlothBot.png){max-height: 300px}
 
 [Slothbot](https://atlantabg.org/conservation-research/look-up-its-slothbot/) is a robot that survives for 13 months and monitors pollution, temperature and other environmental conditions in the tree canopy of the Atlanta Botanical Garden.
 
@@ -41,7 +41,7 @@ The following is taken from terra0 website and detail a series of experimental p
 
 ### Argus
 
-![Argus (2022)](https://dam-prod.media.mit.edu/thumb/2018/08/15/IMG_6567%20copy.jpg.1400x1400.jpg){max-height: 300px}
+![Argus (2022)](/assets/images/Argus.png){max-height: 300px}
 
 [Argus](https://www.media.mit.edu/projects/argus-sensors-inside-plants/overview/) is a research project that utilise nanosensors injected into plants to detect water quality and plant physilogy. The injected particles are fluecent under particular light wavelengths unless pollutents within the plant are present.
 
@@ -49,7 +49,7 @@ The following is taken from terra0 website and detail a series of experimental p
 
 ### Botanicus Interacticus
 
-![Botanicus Interacticus](https://satomunehiko.com/wp-content/uploads/2012/01/botanicus-interacticus-03.png){max-height: 300px}
+![Botanicus Interacticus](/assets/images/BotanicusInteracticus.png){max-height: 300px}
 
 [Botanicus Interacticus](https://satomunehiko.com/works/botanicus-interacticus/) is a technology for designing highly expressive interactive plants, both living and artificial. Using capacitive sensors, Botanicus Interacticus technology can be used to design highly interactive responsive environments based on plants, developing new forms of organic, living interaction devices as well as creating organic ambient and pervasive interfaces.
 
@@ -57,15 +57,23 @@ The following is taken from terra0 website and detail a series of experimental p
 
 ### Elowan
 
-![Elowan](https://dam-prod.media.mit.edu/thumb/2018/11/01/Elowan_Lights.gif.1400x1400.gif){max-height: 300px}
+![Elowan](/assets/images/Elowan.jpg){max-height: 300px}
 
 [Elowan](https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/) is a mobile plant on wheels, a cybernetic lifeform in direct dialogue with a machine. Using its own internal electrical signals, the plant is interfaced with a robotic extension that drives it toward light.
 
 [Research Paper 2017](http://hdl.handle.net/1721.1/114063)
 
+### Flora luma
+
+![Flora luma](/assets/images/FloraLuma.png){max-height: 300px}
+
+[Flora luma](https://www.researchgate.net/figure/The-Flora-Luma-artifact-Close-up-2-CAuthor_fig6_318494034) is an art installation which makes plant resonsibeness at scales of a human.
+
+[Research Paper 2016](https://doi.org/10.1145/2948076.2948115)
+
 ### Listen Tree
 
-![Listen Tree](https://listentree.media.mit.edu/img/locations/mexico8.jpg){max-height: 300px}
+![Listen Tree](/assets/images/ListenTree.png){max-height: 300px}
 
 [Listen Tree](https://listentree.media.mit.edu) is an audio-haptic display embedded in the natural environment. Users touch their ear with the trunk of a tree and hear faint sounds.
 
@@ -73,7 +81,7 @@ The following is taken from terra0 website and detail a series of experimental p
 
 ### Other Intelligences
 
-![Other Intelligences](http://www.mariacastellanos.net/_docs/proyectos/otras_inteligencias_BBVA/002_monstera.jpg){max-height: 300px}
+![Other Intelligences](/assets/images/OtherIntelligences.png){max-height: 300px}
 
 [Other Intelligences](http://interspeciesdialogues.net/) is a network of pot plants across the world. The pot plants are augmented with sensors and actiuators. The sensors detect environemental changes such as soil moisture, light levels, temperature, noise and proximity. While the actuators vibrate the plant, create coloured light and sounds. The sensors within one plant communicate to the other plants around the world, creating a network which is obervable to both the plant and the human.
 
@@ -84,201 +92,103 @@ The following is taken from Maria Castellanos' website which details a series of
 - [The Plants Sense 2018](http://www.mariacastellanos.net/?/=/seccion/projects/entrada/plants_sense_eng) consists of an interactive garden in which different sensors measure the electrical oscillations of the connected plants, and show their biochemical reactions to the human presence and the environment that surrounds them via vibrations and low frequency sounds.
 - [Beyond Human Perception 2020](http://www.mariacastellanos.net/?/=/seccion/projects/entrada/bhp_eng) is an installation that visulises the reactions of humans (EEG registered wave) and plants (electrical oscillations) to a common stimulus, music.
 
-### project Florence
+### Project Florence
 
-![Telegarden](){max-height: 300px}
+![Project Florence](/assets/images/ProjectFlorence.png){max-height: 300px}
 
-natural language with plant sensing for companionship https://www.microsoft.com/en-us/research/publication/project-florence-plant-human-experience/
+[Project Florence](https://www.microsoft.com/en-us/research/publication/project-florence-plant-human-experience/) uses natural language with plant sensing for companionship.
 
-[Research Paper ](doi)
+[Research Paper ](https://dl.acm.org/doi/10.1145/3027063.3052550)
 
-### Pleased
+### The PLEASED Experience
 
-![Telegarden](){max-height: 300px}
+![The PLEASED Experience](/assets/images/thePLEASEDexperience.png){max-height: 300px}
 
-plants as passive sensors https://dl.acm.org/doi/10.1145/2517351.2517403
+[The PLEASED Experience]() uses plants as passive sensors.
 
-[Research Paper ](doi)
+[Research Paper ](https://dl.acm.org/doi/10.1145/2517351.2517403)
 
 ### Hortum Machina B
 
-![Telegarden](){max-height: 300px}
-
-Actuated geodesic doam with internal garden. http://www.interactivearchitecture.org/lab-projects/reearth
+![Telegarden](/assets/images/HortumMachinaB.png){max-height: 300px}
+[Hortum Machina B](http://www.interactivearchitecture.org/lab-projects/reearth) is an actuated geodesic doam with internal gardens.
 
 [Research Paper ](doi)
 
 ### Plantas Nomadas
 
-![Telegarden](){max-height: 300px}
+![Plantas Nomadas](/assets/images/PlantasNomadas.png){max-height: 300px}
 
-Mobile plant that purifies water. Living entity https://www.plantasnomadas.com
+[Plantas Nomadas](https://www.plantasnomadas.com) is a mobile plant that purifies water.
 
-[Research Paper ](doi)
+[Research Paper ](https://doi.org/10.1142/9789814656863_0013)
 
 ### Pleura Pod
 
-![Telegarden](){max-height: 300px}
+![Pleura Pod](/assets/images/PleuraPod.png){max-height: 300px}
 
-air purificaiton wall pod http://www.beomki.com/pleura-pod
+[Pleura Pod](http://www.beomki.com/pleura-pod) is an air purificaiton wall pod
 
-[Research Paper ](doi)
+No Research Paper, outcome of masters students.
 
 ### BioCaller
 
-![Telegarden](){max-height: 300px}
+![BioCaller](/assets/images/BioCaller.png){max-height: 300px}
 
-wearable plant communicatino device https://www.yankodesign.com/2021/01/21/this-wearable-lets-your-plants-communicate-with-you/
+[BioCaller](https://www.yankodesign.com/2021/01/21/this-wearable-lets-your-plants-communicate-with-you/) is a wearable device that responds to moisture sensors wihtin a pot plant.
 
-[Research Paper ](doi)
+No Research Paper, perhaps outcome of masters students.
 
-### EmotioPlant
+### EmotiPlant
 
-![Telegarden](){max-height: 300px}
+![EmotiPlant](/assets/images/EmotiPlant.png){max-height: 300px}
+![PlantsIO](/assets/images/PlantsIO.png){max-height: 300px}
 
-actuated plants to express emotions to humans
-https://dl.acm.org/doi/10.1145/2839462.2856548
+The following use sensors to express a plant's status in relation to the environemental conditions.
 
-[Research Paper ](doi)
-
-### Plantio
-
-![Telegarden](){max-height: 300px}
-
-actuated plants to express emotions to humans
-https://dl.acm.org/doi/10.1145/1255047.1255075
-
-[Research Paper ](doi)
-
-### PotPet
-
-![Telegarden](){max-height: 300px}
-
-actuated plants to express emotions to humans
-https://dl.acm.org/doi/10.1145/1935701.1935755
-
-[Research Paper ](doi)
-
-### MyGreenPet
-
-![Telegarden](){max-height: 300px}
-
-actuated plants to express emotions to children
-https://dl.acm.org/doi/10.1145/1810543.1810573
-
-[Research Paper ](doi)
-
-### I/O Plant
-
-![Telegarden](){max-height: 300px}
-
-actuated plants to express emotions to humans
-https://dl.acm.org/doi/10.1145/1240866.1241037
-
-[Research Paper ](doi)
+- [EmotiPlant](https://dl.acm.org/doi/10.1145/2839462.2856548)
+- [Plantio](https://dl.acm.org/doi/10.1145/1255047.1255075)
+- [PotPet](https://dl.acm.org/doi/10.1145/1935701.1935755)
+- [MyGreenPet](https://dl.acm.org/doi/10.1145/1810543.1810573)
+- [I/O Plant](https://dl.acm.org/doi/10.1145/1240866.1241037)
+- [PlantsIO](https://www.indiegogo.com/projects/plantsio-ivy-smart-flowerpots-endless-fun#/) is a consumer product.
+  ![](/assets/images/2022-07-29-12-40-23.png)
 
 ## Architectural Outcomes
 
 ### Urban Algae Canopy
 
-![Telegarden](){max-height: 300px}
+![Urban Algae Canopy](/assets/images/UrbanAlgae.png){max-height: 300px}
 
-algae integrated within a parvilion
-https://www.ecologicstudio.com/projects/expo-milano-2015-urban-algae-folly
+[Urban Algae Canopy](https://www.ecologicstudio.com/projects/expo-milano-2015-urban-algae-folly) use algae integrated within a parvilion.
 
-[Research Paper ](doi)
+No research paper. Designed by ecoLogicStudio for Milan Expo 2015.
 
 ### Vertical Forest
 
-![Telegarden](){max-height: 300px}
+![Vertical Forest](/assets/images/VerticalForest.png){max-height: 300px}
 
-112m high building with dense vegetation in Milan in the Porta Nuova area
-https://www.stefanoboeriarchitetti.net/en/project/vertical-forest/
+[Vertical Forest](https://www.stefanoboeriarchitetti.net/en/project/vertical-forest/) is a 112m high building with dense vegetation in Milan in the Porta Nuova area.
 
-[Research Paper ](doi)
+[Research Paper](https://www.researchgate.net/profile/Ayca-Tokuc-2/publication/320556587_A_Green_Outlook_to_Tall_Building_Facades_via_Milan's_Vertical_Forest/links/5b3760c40f7e9b0df5dcf97e/A-Green-Outlook-to-Tall-Building-Facades-via-Milans-Vertical-Forest.pdf) that discusses the outcomes.
 
 ### Kinetic Green Canvas
 
-![Telegarden](){max-height: 300px}
+![Kinetic Green Canvas](/assets/images/KineticGreenCanvas.png){max-height: 300px}
 
-pixelated plant art on the façade 2017
-https://materialdistrict.com/article/kinetic-green-canvas-pixelated-plant-art-facade/
-
-[Research Paper ](doi)
+[Kinetic Green Canvas](https://materialdistrict.com/article/kinetic-green-canvas-pixelated-plant-art-facade/)is a pixelated plant art on a façade. Using three shades input images rotate green pixels.
 
 ## Consumer Products
 
-### Trimbot2020
-
-Robot to trim plants
-http://trimbot2020.webhosting.rug.nl
-
-[Research Paper ](doi)
-
-### Tertill
-
-![Telegarden](){max-height: 300px}
-
-Weeding robot that’s solar powered
-https://tertill.com
-
-[Research Paper ](doi)
-
-### Toadi / Willow-X
-
-![Telegarden](){max-height: 300px}
-
-Automated lawn mowing https://eeve.com
-
-[Research Paper ](doi)
-
-### Honda Miimo
-
-![Telegarden](){max-height: 300px}
-
-Automated lawn mowing https://powerequipment.honda.com/lawn-mowers/miimo
-
-[Research Paper ](doi)
-
-### Husqvarna Automower
-
-![Telegarden](){max-height: 300px}
-
-Automated lawn mowing www.husqvarna.com
-
-[Research Paper ](doi)
-
-### Robin Autopilot
-
-![Telegarden](){max-height: 300px}
-
-Automated lawn mowing https://edmond.robinautopilot.com
-
-[Research Paper ](doi)
-
-### Botanicalls
-
-![Telegarden](){max-height: 300px}
-
-Moisture sensor to twitter and text messenger. https://www.botanicalls.com/
-
-[Research Paper ](doi)
-
-### Aria Hybrid Air Purifier
-
-![Telegarden](){max-height: 300px}
-
-air purifyer which uses plant roots to improve purification. https://designwanted.com/aria-hybrid-air-purifier/
-
-[Research Paper ](doi)
-
-### OLUS
-
-![Telegarden](){max-height: 300px}
-
-air purifyer which uses plant roots to improve purification. https://designwanted.com/olus-air-purifier/
-
-[Research Paper ](doi)
+- [Trimbot2020](http://trimbot2020.webhosting.rug.nl) is a robot to trim plants.
+- [Tertill](https://tertill.com) is a weeding robot that is solar powered.
+- [Toadi / Willow-X](https://eeve.com) are automated lawn mowing robots.
+- [Honda Miimo](https://powerequipment.honda.com/lawn-mowers/miimo) is an automated lawn mowing robot.
+- [Husqvarna Automower](www.husqvarna.com) is an automated lawn mowing robot.
+- [Robin Autopilot](https://edmond.robinautopilot.com) is an automated lawn mowing robot.
+- [Botanicalls](https://www.botanicalls.com/) uses moisture sensors to automatically create twitter and text messages.
+- [Aria Hybrid Air Purifier](https://designwanted.com/aria-hybrid-air-purifier/) uses plant roots to improve air purification.
+- [OLUS](https://designwanted.com/olus-air-purifier/) uses plant roots to improve air purification.
 
 ## Industrial Products
 
@@ -292,52 +202,65 @@ air purifyer which uses plant roots to improve purification. https://designwante
 
 ### HV-100
 
-[Research Paper ](doi)
+![HV-100](/assets/images/HV100.png){max-height: 300px}
 
-![Telegarden](){max-height: 300px}
-
-Automated plant moving for nurseries https://www.public.harvestai.com
-
-[Research Paper ](doi)
+[HV-100](https://www.public.harvestai.com) is an automated pot plant mover for nurseries.
 
 ### Iron Ox
 
-![Telegarden](){max-height: 300px}
+![Iron Ox](/assets/images/IronOx.png){max-height: 300px}
 
-AI vision and plant detection for industrial agricultuire https://ironox.com/technology/
-
-[Research Paper ](doi)
+[Iron Ox](https://ironox.com/technology/) AI vision and plant detection for industrial agricultuire
 
 ### Small Robot Co
 
-![Telegarden](){max-height: 300px}
+![Small Robot Co](/assets/images/SmallRobotCo.png){max-height: 300px}
 
-AI vision, weed detection, weeding and planting https://www.smallrobotcompany.com
-
-[Research Paper ](doi)
+[Small Robot Co](https://www.smallrobotcompany.com) use AI vision for plant detection and automatic weeding and planting.
 
 ## Consumer Kickstarter Products
 
 ### Farmbot
 
-![Telegarden](){max-height: 300px}
+![Farmbot](/assets/images/FarmBot.png){max-height: 300px}
 
-opensource CNC gardener https://farm.bot
-
-[Research Paper ](doi)
+[Farmbot](https://farm.bot) is an opensource CNC gardener installed on raised rectangular garden beds.
 
 ### GardenSpace Robot
 
-![Telegarden](){max-height: 300px}
+![GardenSpace Robot](/assets/images/GardenSpaceRobot.png){max-height: 300px}
 
-Environment monitoring and automtice watering kickstarter
-
-[Research Paper ](doi)
+[GardenSpace Robot](https://www.kickstarter.com/projects/334652696/gardenspace-smart-camera-smart-watering-smart-gard) is a environment monitoring and automtice watering device to be installed within a garden bed.
 
 ### Sybil
 
-![Telegarden](){max-height: 300px}
+![Sybil](/assets/images/Sybil.png){max-height: 300px}
 
-Automated weeding and seeding with tensor flow ML https://www.kickstarter.com/projects/starlingsystems/sybil-the-smart-garden-robot-powered-by-machine-learning?lang=it
+[Sybil](https://www.kickstarter.com/projects/starlingsystems/sybil-the-smart-garden-robot-powered-by-machine-learning?lang=en) is an automated weeding and seeding (roomba like) robot with tensor flow machine learning.
 
-[Research Paper ](doi)
+### Other Examples
+
+Taken from Debbora Battaglia (2017) "Aeroponic gardens and their magic: Plants/persons/ethics in suspension", History and Anthropology, 28:3, 263-292, DOI:10.1080/02757206.2017.1289935
+
+### AeroFarms
+
+![Aeroponic Potatoes](/assets/images/AeroponicIrishPotaties.png){max-height: 300px}
+![Aero Farms](/assets/images/AeroFarms.png){max-height: 300px}
+
+[AeroFarm](https://www.greenbiz.com/article/aerofarms-trying-cultivate-future-vertical-farming)
+
+![Living with the Land](/assets/images/LivingWithTheLand.png){max-height: 300px}
+
+[Living with the Land](https://disneyworld.disney.go.com/events-tours/epcot/behind-the-seeds/) Disney Future World, The Epcot Center
+
+### Urban
+
+[Singapore’s Gardens by the Bay Cloud Forest](https://grant-associates.uk.com/projects/gardens-by-the-bay)
+
+![Bay Cloud Forest](/assets/images/BayCloudForest.png){max-height: 300px}
+
+![Perez Art Museum, Miami, Florida](/assets/images/PerezArtMuseum.png){max-height: 300px}
+
+### Zucchiniaut
+
+![Zucchiniaut](/assets/images/Zucchiniaut.png){max-height: 300px}
