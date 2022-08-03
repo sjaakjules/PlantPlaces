@@ -8,3 +8,5 @@ pods/service-connections
 *.next
 *.DS_Store
 .dendron.cache.*
+
+.next

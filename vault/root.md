@@ -1,12 +1,14 @@
 ---
 id: rlv1y6qadl0zqs7cm3fqyj7
 title: PhD Exhibition
-desc: ''
-updated: 1646186535097
+desc: ""
+updated: 1659498798911
 created: 1646186453740
 ---
+
 # Welcome to Dendron
 
+[[CyborgPlants]]
 
 ## Lookup
 
